@@ -63,7 +63,7 @@
 
 ### 
 <table>
-<tr><th>Machine Learning Projects</th><th>Software Engineering Labs</th></tr>
+<tr><th>Machine Learning Projects</th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -72,21 +72,11 @@
 | [Food Image Classifier](https://github.com/RyanTietjen/Food-Classifier-pytorch-ver.-) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![SageMaker](https://img.shields.io/badge/SageMaker-black?style=flat-square&logo=amazon) ![S3](https://img.shields.io/badge/S3-black?style=flat-square&logo=amazon) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
 | [Paper Abstract Fragementation](https://github.com/RyanTietjen/Paper-Fragmentation) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
 
-</td><td>
-
-|Lab Title | Technologies/Concepts|
-|--|--|
-| Week 4: <br> React Activity | --- |  |
-| Week 3: <br> CI Activity  | --- |  |
-| Week 3: <br> TDD Activity | --- |  |
-| Week 2: <br> Git Activity | --- |  |
-
-
 </td></tr> </table>
 
 ###
 <table>
-<tr><th>Course Work</th></tr>
+<tr><th>Course Work</th><th>Software Engineering Labs</th></tr>
 <tr>
 <td>
 
@@ -103,7 +93,19 @@
 | EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization | A- |  |
 | CS3500: <br> Object-Oriented <br> Design | --- |  |
 
-</td></tr> </table>
+</td>
+<td>
+
+|Lab Title | Technologies/Concepts|
+|--|--|
+| [Week 4: <br> React Activity](https://github.com/RyanTietjen/week-4-react-activity) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | 
+| [Week 3: <br> TDD Activity](https://github.com/RyanTietjen/Week3-CI-Activity)  | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest) | 
+| [Week 3: <br> CI Activity](https://github.com/RyanTietjen/Week3-CI-Activity) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![git](https://img.shields.io/badge/Git-black?style=flat-square&logo=github) ![git Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github)| 
+| [Week 2: <br> Git Activity](https://github.com/RyanTietjen/Week2-GitActivity) | ![git](https://img.shields.io/badge/Git-black?style=flat-square&logo=github) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+
+
+</td>
+</tr> </table>
 
 ###
 
