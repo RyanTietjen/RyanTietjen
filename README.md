@@ -63,7 +63,7 @@
 
 ### 
 <table>
-<tr><th>Machine Learning </th><th>Software Engineering Labs</th></tr>
+<tr><th>Machine Learning Projects</th><th>Software Engineering Labs</th></tr>
 <tr><td>
 
 |Title | Technologies|
