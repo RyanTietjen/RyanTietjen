@@ -63,7 +63,7 @@
 
 ### 
 <table>
-<tr><th>Machine Learning </th><th>Course Work</th></tr>
+<tr><th>Machine Learning </th><th>Software Engineering Labs</th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -74,18 +74,12 @@
 
 </td><td>
 
-|Course Title | Grade | Technologies|
-|--|--|--|
-| DS4400: <br> Machine Learning & <br> Data Mining 1 | --- |  |
-| CS4120: <br> Natural Language <br> Processing  | --- |  |
-| CS4530: <br> Fundamentals of <br> Software Engineering | --- |  |
-| CS3500: <br> Algorithms & Data | A |  |
-| CS3650: <br> Computer Systems | A |  |
-| CS3200: <br> Introduction to <br> Databases | --- |  |
-| DS3000: <br> Foundations of <br> Data Science | A |  |
-| [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A |  |
-| EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization | A- |  |
-| CS3500: <br> Object-Oriented <br> Design | --- |  |
+|Lab Title | Technologies/Concepts|
+|--|--|
+| Week 4: <br> React Activity | --- |  |
+| Week 3: <br> CI Activity  | --- |  |
+| Week 3: <br> TDD Activity | --- |  |
+| Week 2: <br> Git Activity | --- |  |
 
 
 </td></tr> </table>
