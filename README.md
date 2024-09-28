@@ -70,7 +70,7 @@
 |--|--|
 | [TikTok Video Generator](https://github.com/RyanTietjen/ContentGenerator) | ![Whisper](https://img.shields.io/badge/Whisper-black?style=flat-square&logo=openai) ![Polly](https://img.shields.io/badge/Polly-black?style=flat-square&logo=amazon) <br> ![PRAW](https://img.shields.io/badge/PRAW-black?style=flat-square&logo=reddit) ![MoviePy](https://img.shields.io/badge/MoviePy-black?style=flat-square&logo=moviepy) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
 | [Food Image Classifier](https://github.com/RyanTietjen/Food-Classifier-pytorch-ver.-) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![SageMaker](https://img.shields.io/badge/SageMaker-black?style=flat-square&logo=amazon) ![S3](https://img.shields.io/badge/S3-black?style=flat-square&logo=amazon) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
-| [Paper Abstract Fragementation](https://github.com/RyanTietjen/Paper-Fragmentation) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
+| [Paper Abstract Fragmentation](https://github.com/RyanTietjen/Paper-Fragmentation) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
 
 </td></tr> </table>
 
@@ -84,13 +84,13 @@
 |--|--|--|
 | DS4400: <br> Machine Learning & <br> Data Mining 1 | --- |  |
 | CS4120: <br> Natural Language <br> Processing  | --- |  |
-| CS4530: <br> Fundamentals of <br> Software Engineering | --- |  |
+| [CS4530: <br> Fundamentals of <br> Software Engineering](https://github.com/neu-cs4530-fall2024/Team401-project) | --- | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
 | CS3500: <br> Algorithms & Data | A |  |
 | CS3650: <br> Computer Systems | A |  |
 | CS3200: <br> Introduction to <br> Databases | --- |  |
 | DS3000: <br> Foundations of <br> Data Science | A |  |
-| [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A |  |
-| EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization | A- |  |
+| [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) <br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) |
+| [EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization](https://github.com/RyanTietjen/EECE2323) | A- | ![RISC](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=risc-v) <br> ![SV](https://img.shields.io/badge/SystemVerilog-black?style=flat-square&logo=rsc-v) |
 | CS3500: <br> Object-Oriented <br> Design | --- |  |
 
 </td>
@@ -98,7 +98,7 @@
 
 |Lab Title | Technologies/Concepts|
 |--|--|
-| [Week 4: <br> React Activity](https://github.com/RyanTietjen/week-4-react-activity) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | 
+| [Week 4: <br> React Activity](https://github.com/RyanTietjen/week-4-react-activity) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | 
 | [Week 3: <br> TDD Activity](https://github.com/RyanTietjen/Week3-CI-Activity)  | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest) | 
 | [Week 3: <br> CI Activity](https://github.com/RyanTietjen/Week3-CI-Activity) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> ![git](https://img.shields.io/badge/Git-black?style=flat-square&logo=github) ![git Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github)| 
 | [Week 2: <br> Git Activity](https://github.com/RyanTietjen/Week2-GitActivity) | ![git](https://img.shields.io/badge/Git-black?style=flat-square&logo=github) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
