@@ -82,12 +82,12 @@
 
 |Course Title | Grade | Technologies|
 |--|--|--|
-| DS4400: <br> Machine Learning & <br> Data Mining 1 | --- |  |
-| CS4120: <br> Natural Language <br> Processing  | --- |  |
+| [DS4400: <br> Machine Learning & <br> Data Mining 1](https://github.com/RyanTietjen/DS4400) | --- | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [CS4120: <br> Natural Language <br> Processing](https://github.com/RyanTietjen/CS4120)  | --- | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 | [CS4530: <br> Fundamentals of <br> Software Engineering](https://github.com/neu-cs4530-fall2024/Team401-project) | --- | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
 | CS3500: <br> Algorithms & Data | A |  |
 | CS3650: <br> Computer Systems | A |  |
-| CS3200: <br> Introduction to <br> Databases | --- |  |
+| [CS3200: <br> Introduction to <br> Databases](https://github.com/RyanTietjen/CS3200) | --- | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
 | DS3000: <br> Foundations of <br> Data Science | A |  |
 | [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) <br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) |
 | [EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization](https://github.com/RyanTietjen/EECE2323) | A- | ![RISC](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=risc-v) <br> ![SV](https://img.shields.io/badge/SystemVerilog-black?style=flat-square&logo=rsc-v) |
