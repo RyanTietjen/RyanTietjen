@@ -88,7 +88,7 @@
 | CS3500: <br> Algorithms & Data | A |  |
 | CS3650: <br> Computer Systems | A |  |
 | [CS3200: <br> Introduction to <br> Databases](https://github.com/RyanTietjen/CS3200) | --- | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
-| DS3000: <br> Foundations of <br> Data Science | A |  |
+| [DS3000: <br> Foundations of <br> Data Science](https://github.com/RyanTietjen/DS3000) | A | ![Scikit](https://img.shields.io/badge/Scikit-black?style=flat-square&logo=scikit-learn) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)|
 | [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) <br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) |
 | [EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization](https://github.com/RyanTietjen/EECE2323) | A- | ![RISC](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=risc-v) <br> ![SV](https://img.shields.io/badge/SystemVerilog-black?style=flat-square&logo=rsc-v) |
 | CS3500: <br> Object-Oriented <br> Design | --- |  |
