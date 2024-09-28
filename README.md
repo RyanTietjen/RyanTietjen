@@ -91,7 +91,9 @@
 | [DS3000: <br> Foundations of <br> Data Science](https://github.com/RyanTietjen/DS3000) | A | ![Scikit](https://img.shields.io/badge/Scikit-black?style=flat-square&logo=scikit-learn) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)|
 | [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) <br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) |
 | [EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization](https://github.com/RyanTietjen/EECE2323) | A- | ![RISC](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=risc-v) <br> ![SV](https://img.shields.io/badge/SystemVerilog-black?style=flat-square&logo=rsc-v) |
-| CS3500: <br> Object-Oriented <br> Design | --- |  |
+| [CS3500: <br> Object-Oriented <br> Design](https://github.com/RyanTietjen/CS3500) | --- | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) ![JUnit](https://img.shields.io/badge/JUnit-black?style=flat-square&logo=junit5) <br> ![Java](https://img.shields.io/badge/OOD-black?style=flat-square&logo=pthon)  |
+| [CS2510: <br> Fundamentals of <br> Computer Science 2](https://github.com/RyanTietjen/CS2510) | A | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) ![JUnit](https://img.shields.io/badge/JUnit-black?style=flat-square&logo=junit5) |
+| [CS2500: <br> Fundamentals of <br> Computer Science 1](https://github.com/RyanTietjen/CS2500) | A | ![Racket](https://img.shields.io/badge/DrRacket-black?style=flat-square&logo=racket) |
 
 </td>
 <td>
