@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ryan Tietjen, and I'm studying CS and ML/AI @ Northeastern University</h2>
+<h2 align="left">Hi 👋! My name is Ryan Tietjen, and I'm studying CS and AI/ML @ Northeastern University</h2>
 
 ###
 
