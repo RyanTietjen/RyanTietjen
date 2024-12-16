@@ -63,7 +63,7 @@
 
 ### 
 <table>
-<tr><th>Machine Learning Projects</th></tr>
+<tr><th>Machine Learning Projects</th><th>Highlighted Coursework Projects</th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -72,7 +72,18 @@
 | [Food Image Classifier](https://github.com/RyanTietjen/Food-Classifier-pytorch-ver.-) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![SageMaker](https://img.shields.io/badge/SageMaker-black?style=flat-square&logo=amazon) ![S3](https://img.shields.io/badge/S3-black?style=flat-square&logo=amazon) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
 | [Paper Abstract Fragmentation](https://github.com/RyanTietjen/Paper-Fragmentation) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/Demo-black?style=flat-square&logo=huggingface)|
 
+</td>
+<td>
+
+|Title | Technologies|
+|--|--|
+| [Dementia Detection via NLP](https://github.com/wjxiao2020/Dementia-Identification-NLP) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)|
+| [Spreadsheet (Excel clone)](https://github.com/neu-cs4530-fall2024/Team401-project) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React) ![TS](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript) <br> ![git](https://img.shields.io/badge/Git-black?style=flat-square&logo=github) ![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=Jest) <br> ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=Cypress)|
+| [ResumeHub](https://github.com/Nickdaco/24F-Project-ResumeHub) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) <br> ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit)|
+
+
 </td></tr> </table>
+
 
 ###
 <table>
@@ -82,11 +93,11 @@
 
 |Course Title | Grade | Technologies|
 |--|--|--|
-| [DS4400: <br> Machine Learning & <br> Data Mining 1](https://github.com/RyanTietjen/DS4400) | --- | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [DS4400: <br> Machine Learning & <br> Data Mining 1](https://github.com/RyanTietjen/DS4400) | A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [CS4120: <br> Natural Language <br> Processing](https://github.com/RyanTietjen/CS4120)  | --- | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-| [CS4530: <br> Fundamentals of <br> Software Engineering](https://github.com/neu-cs4530-fall2024/Team401-project) | --- | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
+| [CS4530: <br> Fundamentals of <br> Software Engineering](https://github.com/neu-cs4530-fall2024/Team401-project) | A | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
 | [CS3000: <br> Algorithms & Data](https://github.com/RyanTietjen/CS3000) | A | ![TypeScript](https://img.shields.io/badge/PsuedoCode-black?style=flat-square&logo=typescrip) <br> ![TypeScript](https://img.shields.io/badge/Algorithm_Design-black?style=flat-square&logo=typescrip) <br> ![TypeScript](https://img.shields.io/badge/Data_Structures-black?style=flat-square&logo=typescrip) |
-| [CS3200: <br> Introduction to <br> Databases](https://github.com/RyanTietjen/CS3200) | --- | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
+| [CS3200: <br> Introduction to <br> Databases](https://github.com/RyanTietjen/CS3200) | A | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)|
 | [DS3000: <br> Foundations of <br> Data Science](https://github.com/RyanTietjen/DS3000) | A | ![Scikit](https://img.shields.io/badge/Scikit-black?style=flat-square&logo=scikit-learn) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Juyper](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)|
 | [CS3700:<br>Networks & Distributed<br>Systems](https://github.com/RyanTietjen/cs3700)| A | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=pthon) <br> ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) |
 | [EECE2322: <br> Foundations of <br> Digital Design & <br> Computer Organization](https://github.com/RyanTietjen/EECE2323) | A- | ![RISC](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=risc-v) <br> ![SV](https://img.shields.io/badge/SystemVerilog-black?style=flat-square&logo=rsc-v) |
