@@ -126,10 +126,10 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/Yvng_Ryan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6hgph9ohv0dyc7zpjr2i6wfh1&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6hgph9ohv0dyc7zpjr2i6wfh1&count=5&unique=false" alt="Spotify recently played" />
   </a>
-</div>
+</div> -->
 
 ###
